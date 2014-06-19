@@ -1,8 +1,8 @@
-package com.alg.sort;
+package com.alg.sort.test;
 
 import java.util.Random;
 
-public class SortUtil {
+public class SortTestingUtil {
 	final static int SIZE = 50; //size of the array
 	final static int SCOPE = 1000; //max of the random number
 	public static int[] generateRandomArray(int len, int edge){
