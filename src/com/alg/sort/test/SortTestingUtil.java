@@ -21,9 +21,9 @@ public class SortTestingUtil {
 	}
 	
 	public static void display(int[] input, int[] output){
-		System.out.println("Here is the input array:");
+		System.out.println("Here is the input array: length "+input.length);
 		displayArray(input);
-		System.out.println("Here is the output array:");
+		System.out.println("Here is the output array: length "+output.length);
 		displayArray(output);
 	}
 	
