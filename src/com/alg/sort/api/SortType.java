@@ -1,4 +1,4 @@
-package com.alg.sort;
+package com.alg.sort.api;
 
 public enum SortType {
 	BUBBLE,
